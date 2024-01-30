@@ -1,6 +1,6 @@
 # Hello, I'm Ramesh! 👋
 
-I am a passionate Software Engineer with a background in Software Development and Mechatronics Engineering. Currently pursuing a post graduate certifate in Mobile Application Development.
+I am a passionate Software Engineer with a background in Software Development and Mechatronics Engineering. Currently pursuing a post graduate certificate in Mobile Application Development.
 
 ## About Me
 
