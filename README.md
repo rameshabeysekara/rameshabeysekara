@@ -10,7 +10,6 @@ I am a passionate Software Engineer with a background in Software Development an
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: [Interesting Fun Fact]
 
-## Skills
 
 
 ## Connect with Me
