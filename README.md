@@ -7,7 +7,7 @@ I am a passionate Software Engineer with a background in Software Development an
 - 🎓 Fanshawe College
 - 💼 Software Engineer
 - 🌱 I'm currently learning Native Mobile Development
-- 😄 Pronouns: he/him
+- 😄 Pronouns: he/him/his
 - ⚡ Fun fact: I've discovered that I can whip up a React Native prototype app faster than I can design it in Figma!
 
 
