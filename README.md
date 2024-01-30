@@ -1,16 +1,22 @@
-### Hi there 👋
+# Hello, I'm Ramesh! 👋
 
-<!--
-**RameshAbeysekara/rameshabeysekara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a passionate Software Engineer with a background in Software Development and Mechatronics Engineering. Currently pursuing a post graduate certifate in Mobile Application Development.
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 Fanshawe College
+- 💼 Software Engineer
+- 🌱 I'm currently learning Native Mobile Development
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: [Interesting Fun Fact]
+
+## Skills
+
+
+## Connect with Me
+
+- [LinkedIn](https://www.linkedin.com/in/rameshabeysekara/)
+
+Feel free to explore my repositories and don't hesitate to reach out. Let's connect and collaborate on exciting projects!
+
+Happy coding! 🚀
