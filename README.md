@@ -12,9 +12,7 @@ I am a passionate Software Engineer with a background in Software Development an
 
 
 
-## Connect with Me
-
-- [LinkedIn](https://www.linkedin.com/in/rameshabeysekara/)
+#### Connect with Me : [LinkedIn](https://www.linkedin.com/in/rameshabeysekara/)
 
 Feel free to explore my repositories and don't hesitate to reach out. Let's connect and collaborate on exciting projects!
 
