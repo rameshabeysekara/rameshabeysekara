@@ -16,6 +16,8 @@ I am a passionate Software Engineer with a background in Software Development an
 
 Feel free to explore my repositories and don't hesitate to reach out. Let's connect and collaborate on exciting projects!
 
+Happy coding! 🚀
+
 ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
@@ -42,5 +44,3 @@ Feel free to explore my repositories and don't hesitate to reach out. Let's conn
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
 ![Xcode](https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white)
-
-Happy coding! 🚀
