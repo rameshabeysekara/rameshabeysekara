@@ -1,22 +1,18 @@
 # Hello, I'm Ramesh! 👋
 
-I am a passionate Software Engineer with a background in Software Development and Mechatronics Engineering. Currently pursuing a post graduate certificate in Mobile Application Development.
+I am a dedicated Software Engineer with a blend of Software Development and Mechatronics Engineering experience, currently focused on Mobile Development. My journey has spanned from building impactful iOS and Android applications to developing innovative frontend solutions using technologies like React Native, Vue 3, and Svelte.
 
 ## About Me
 
-- 🎓 Fanshawe College
-- 💼 Software Engineer
-- 🌱 I'm currently learning Native Mobile Development
-- 😄 Pronouns: he/him/his
-- ⚡ Fun fact: I've discovered that I can whip up a React Native prototype app faster than I can design it in Figma!
-
-
+- 🎓 Fanshawe College, Postgraduate Certificate in Mobile Application Development
+- 💼 Software Engineer with a strong background in developing end-to-end mobile applications and responsive frontend interfaces
+- 🌱 Actively exploring advancements in mobile and AR/VR applications
+- ⚙️ Experienced with a wide array of frameworks and platforms
+- ⚡ Fun fact: I can prototype in React Native faster than designing it in Figma!
 
 #### Connect with Me : [LinkedIn](https://www.linkedin.com/in/rameshabeysekara/)
 
 Feel free to explore my repositories and don't hesitate to reach out. Let's connect and collaborate on exciting projects!
-
-Happy coding! 🚀
 
 ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
