@@ -1,6 +1,6 @@
 # Hello, I'm Ramesh! 👋
 
-I am a dedicated Software Engineer with a blend of Software Development and Mechatronics Engineering experience, currently focused on Mobile Development. My journey has spanned from building impactful iOS and Android applications to developing innovative frontend solutions using technologies like React Native, Vue 3, and Svelte.
+I am a Software Engineer specializing in Mobile Development, with experience in building iOS and Android applications and delivering front-end solutions using React, Next.js, React Native, Vue 3, and Svelte. I focus on creating efficient, user-centric applications and continuously enhancing my skill set to address complex software development challenges.
 
 ## About Me
 
